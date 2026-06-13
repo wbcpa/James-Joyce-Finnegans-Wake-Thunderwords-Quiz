@@ -1,0 +1,850 @@
+[
+  {
+    "number": 1,
+    "page": 3,
+    "word": "bababadalgharaghtakamminarronnkonnbronntonnerronntuonnthunntrovarrhounawnskawntoohoohoordenenthurnuk",
+    "segments": [
+      {
+        "text": "bababadal",
+        "explained": false
+      },
+      {
+        "text": "gharaght",
+        "explained": true,
+        "language": "Hindustani",
+        "meaning": "thunder (gargarahat)"
+      },
+      {
+        "text": "akamm",
+        "explained": true,
+        "language": "Italian",
+        "meaning": "(they) walked (camminarono)"
+      },
+      {
+        "text": "inarr",
+        "explained": true,
+        "language": "Japanese",
+        "meaning": "thunder (kaminari)"
+      },
+      {
+        "text": "onnkonn",
+        "explained": true,
+        "language": "Finnish",
+        "meaning": "thunder (ukkonen)"
+      },
+      {
+        "text": "bronn",
+        "explained": true,
+        "language": "Greek",
+        "meaning": "thunder (bronte)"
+      },
+      {
+        "text": "tonnerr",
+        "explained": true,
+        "language": "French",
+        "meaning": "thunder (tonnerre)"
+      },
+      {
+        "text": "onn",
+        "explained": false
+      },
+      {
+        "text": "tuonn",
+        "explained": true,
+        "language": "Italian",
+        "meaning": "thunder (tuono)"
+      },
+      {
+        "text": "thunn",
+        "explained": true,
+        "language": "Scottish",
+        "meaning": "thunder (thunner)"
+      },
+      {
+        "text": "trovarr",
+        "explained": true,
+        "language": "Portuguese",
+        "meaning": "thunder (trovao)"
+      },
+      {
+        "text": "houn",
+        "explained": false
+      },
+      {
+        "text": "awnska",
+        "explained": true,
+        "language": "Swedish",
+        "meaning": "thunder (aska)"
+      },
+      {
+        "text": "wntoohoo",
+        "explained": false
+      },
+      {
+        "text": "hoorden",
+        "explained": true,
+        "language": "Danish",
+        "meaning": "thunder (torden)"
+      },
+      {
+        "text": "enthurn",
+        "explained": true,
+        "language": "Irish",
+        "meaning": "thunder (tornach)"
+      },
+      {
+        "text": "uk",
+        "explained": false
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "page": 23,
+    "word": "Perkodhuskurunbarggruauyagokgorlayorgromgremmitghundhurthrumathunaradidillifaititillibumullunukkunun",
+    "segments": [
+      {
+        "text": "Perkod",
+        "explained": true,
+        "language": "Lettish",
+        "meaning": "thunder (perkons)"
+      },
+      {
+        "text": "hus",
+        "explained": false
+      },
+      {
+        "text": "kurun",
+        "explained": true,
+        "language": "Breton",
+        "meaning": "thunder (kurun)"
+      },
+      {
+        "text": "barg",
+        "explained": true,
+        "language": "Persian",
+        "meaning": "thunder (barg)"
+      },
+      {
+        "text": "gruauy",
+        "explained": true,
+        "language": "Lithuanian",
+        "meaning": "it thunders (griauja)"
+      },
+      {
+        "text": "agokgorlay",
+        "explained": true,
+        "language": "Turkish",
+        "meaning": "the sky is thundering (gok gurluyor)"
+      },
+      {
+        "text": "or",
+        "explained": false
+      },
+      {
+        "text": "gromgremmit",
+        "explained": true,
+        "language": "Russian",
+        "meaning": "thunder thunders (grom gremit)"
+      },
+      {
+        "text": "ghundhur",
+        "explained": true,
+        "language": "Malay",
+        "meaning": "thunder (guntur)"
+      },
+      {
+        "text": "thruma",
+        "explained": true,
+        "language": "Icelandic",
+        "meaning": "thunder (thruma)"
+      },
+      {
+        "text": "thuna",
+        "explained": true,
+        "language": "Romanian",
+        "meaning": "to thunder (tuna)"
+      },
+      {
+        "text": "radi",
+        "explained": true,
+        "language": "Kiswahili",
+        "meaning": "thunder (radi)"
+      },
+      {
+        "text": "dilli",
+        "explained": true,
+        "language": "Lithuanian",
+        "meaning": "thunder, Samogitian dialect (dundulis)"
+      },
+      {
+        "text": "faititilli",
+        "explained": true,
+        "language": "Samoan",
+        "meaning": "thunder (faititili)"
+      },
+      {
+        "text": "bumull",
+        "explained": true,
+        "language": "Albanian",
+        "meaning": "to thunder (bumulloj)"
+      },
+      {
+        "text": "unukkunun",
+        "explained": true,
+        "language": "Finnish",
+        "meaning": "thunder (ukkonen)"
+      }
+    ]
+  },
+  {
+    "number": 3,
+    "page": 44,
+    "word": "klikkaklakkaklaskaklopatzklatschabattacreppycrottygraddaghsemmihsammihnouithappluddyappladdypkonpkot",
+    "segments": [
+      {
+        "text": "klikka",
+        "explained": false
+      },
+      {
+        "text": "klakka",
+        "explained": true,
+        "language": "French",
+        "meaning": "clap (claque)"
+      },
+      {
+        "text": "klaska",
+        "explained": false
+      },
+      {
+        "text": "klopatz",
+        "explained": true,
+        "language": "Russian",
+        "meaning": "to clap (khlopat)"
+      },
+      {
+        "text": "klatsch",
+        "explained": true,
+        "language": "German",
+        "meaning": "clap, applaud (Klatsch)"
+      },
+      {
+        "text": "abatta",
+        "explained": true,
+        "language": "Italian",
+        "meaning": "to clap (battere)"
+      },
+      {
+        "text": "creppy",
+        "explained": false
+      },
+      {
+        "text": "crotty",
+        "explained": true,
+        "language": "Greek",
+        "meaning": "loud explosive noises (krotoi)"
+      },
+      {
+        "text": "graddagh",
+        "explained": true,
+        "language": "Irish",
+        "meaning": "clapping (greadadh)"
+      },
+      {
+        "text": "semmih",
+        "explained": false
+      },
+      {
+        "text": "sammih",
+        "explained": false
+      },
+      {
+        "text": "nouith",
+        "explained": false
+      },
+      {
+        "text": "appluddyappladdy",
+        "explained": true,
+        "language": "English",
+        "meaning": "applaud"
+      },
+      {
+        "text": "pkonpkot",
+        "explained": false
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "page": 90,
+    "word": "Bladyughfoulmoecklenburgwhurawhorascortastrumpapornanennykocksapastippatappatupperstrippuckputtanach",
+    "segments": [
+      {
+        "text": "Blady",
+        "explained": true,
+        "language": "Russian",
+        "meaning": "prostitute (blyad')"
+      },
+      {
+        "text": "ugh",
+        "explained": false
+      },
+      {
+        "text": "foul",
+        "explained": true,
+        "language": "English",
+        "meaning": "foul (bloody awful)"
+      },
+      {
+        "text": "moeck",
+        "explained": true,
+        "language": "Latin",
+        "meaning": "promiscuous woman, adulteress (moecha)"
+      },
+      {
+        "text": "lenburg",
+        "explained": false
+      },
+      {
+        "text": "whura",
+        "explained": true,
+        "language": "German",
+        "meaning": "prostitute (Hure)"
+      },
+      {
+        "text": "whora",
+        "explained": true,
+        "language": "Swedish",
+        "meaning": "prostitute (hora)"
+      },
+      {
+        "text": "scorta",
+        "explained": true,
+        "language": "Latin",
+        "meaning": "prostitute (scortum)"
+      },
+      {
+        "text": "strumpa",
+        "explained": true,
+        "language": "English",
+        "meaning": "prostitute (strumpet)"
+      },
+      {
+        "text": "porna",
+        "explained": true,
+        "language": "Greek",
+        "meaning": "prostitute (porne)"
+      },
+      {
+        "text": "nennykocksapas",
+        "explained": true,
+        "language": "Hungarian",
+        "meaning": "thunderbolt, thunderclap (mennykocsapas)"
+      },
+      {
+        "text": "tippatappa",
+        "explained": true,
+        "language": "English",
+        "meaning": "tipping her, tapping her, topping her (Joyce: Ulysses)"
+      },
+      {
+        "text": "tupper",
+        "explained": true,
+        "language": "English",
+        "meaning": "to have sex with (slang: tup)"
+      },
+      {
+        "text": "strippuck",
+        "explained": true,
+        "language": "Irish",
+        "meaning": "prostitute (striopach)"
+      },
+      {
+        "text": "puttanach",
+        "explained": true,
+        "language": "Italian",
+        "meaning": "prostitute (puttana)"
+      }
+    ]
+  },
+  {
+    "number": 5,
+    "page": 113,
+    "word": "Thingcrooklyexineverypasturesixdixlikencehimaroundhersthemaggerbykinkinkankanwithdownmindlookingated",
+    "segments": [
+      {
+        "text": "Thing",
+        "explained": false
+      },
+      {
+        "text": "crookly",
+        "explained": false
+      },
+      {
+        "text": "ex",
+        "explained": false
+      },
+      {
+        "text": "inevery",
+        "explained": true,
+        "language": "English",
+        "meaning": "in every"
+      },
+      {
+        "text": "pasture",
+        "explained": true,
+        "language": "English",
+        "meaning": "pasture (posture)"
+      },
+      {
+        "text": "sixdixlikence",
+        "explained": true,
+        "language": "English",
+        "meaning": "six-day licence (to sell alcohol)"
+      },
+      {
+        "text": "himaroundhers",
+        "explained": true,
+        "language": "English",
+        "meaning": "him around her"
+      },
+      {
+        "text": "the",
+        "explained": false
+      },
+      {
+        "text": "maggerby",
+        "explained": true,
+        "language": "English",
+        "meaning": "majesty, king (maggers)"
+      },
+      {
+        "text": "kinkin",
+        "explained": true,
+        "language": "Malay",
+        "meaning": "to lift up a leg (kingking)"
+      },
+      {
+        "text": "kankan",
+        "explained": true,
+        "language": "Malay",
+        "meaning": "with legs wide apart (kangkang)"
+      },
+      {
+        "text": "with",
+        "explained": false
+      },
+      {
+        "text": "downmindlookingated",
+        "explained": true,
+        "language": "English",
+        "meaning": "don't mind looking at"
+      }
+    ]
+  },
+  {
+    "number": 6,
+    "page": 257,
+    "word": "Lukkedoerendunandurraskewdylooshoofermoyportertooryzooysphalnabortansporthaokansakroidverjkapakkapuk",
+    "segments": [
+      {
+        "text": "Lukkedoeren",
+        "explained": true,
+        "language": "Danish",
+        "meaning": "shut the door (luk doren)"
+      },
+      {
+        "text": "dunandurra",
+        "explained": true,
+        "language": "Irish",
+        "meaning": "shut the door (dun an doras)"
+      },
+      {
+        "text": "skewdyloosh",
+        "explained": true,
+        "language": "Italian",
+        "meaning": "shut the door (chiudi l'uscio)"
+      },
+      {
+        "text": "oofermoy",
+        "explained": true,
+        "language": "French",
+        "meaning": "shut the door (fermez la porte)"
+      },
+      {
+        "text": "porter",
+        "explained": true,
+        "language": "English",
+        "meaning": "more porter"
+      },
+      {
+        "text": "tooryzooy",
+        "explained": true,
+        "language": "German",
+        "meaning": "shut the door! (Ture zu!)"
+      },
+      {
+        "text": "sphalnabortan",
+        "explained": true,
+        "language": "Modern Greek",
+        "meaning": "shut the door (sphalna portan)"
+      },
+      {
+        "text": "sporthaok",
+        "explained": true,
+        "language": "English",
+        "meaning": "sport one's oak: keep one's door shut"
+      },
+      {
+        "text": "an",
+        "explained": false
+      },
+      {
+        "text": "sakroidverj",
+        "explained": true,
+        "language": "Russian",
+        "meaning": "shut the door (zakroi dver')"
+      },
+      {
+        "text": "kapak",
+        "explained": true,
+        "language": "Turkish",
+        "meaning": "shut the door (kapiyi kapat)"
+      },
+      {
+        "text": "kapuk",
+        "explained": true,
+        "language": "Hungarian",
+        "meaning": "gates (kapuk)"
+      }
+    ]
+  },
+  {
+    "number": 7,
+    "page": 314,
+    "word": "Bothallchoractorschumminaroundgansumuminarumdrumstrumtruminahumptadumpwaultopoofoolooderamaunsturnup",
+    "segments": [
+      {
+        "text": "Bothall",
+        "explained": true,
+        "language": "English",
+        "meaning": "both all"
+      },
+      {
+        "text": "choractors",
+        "explained": true,
+        "language": "English",
+        "meaning": "characters (chorus, actors)"
+      },
+      {
+        "text": "chumminaround",
+        "explained": true,
+        "language": "English",
+        "meaning": "coming around"
+      },
+      {
+        "text": "gansum",
+        "explained": true,
+        "language": "German",
+        "meaning": "all round (ganz um)"
+      },
+      {
+        "text": "uminarum",
+        "explained": true,
+        "language": "English",
+        "meaning": "someone or other"
+      },
+      {
+        "text": "drum",
+        "explained": false
+      },
+      {
+        "text": "strumtrum",
+        "explained": true,
+        "language": "English",
+        "meaning": "to have sex with (slang: strum, thrum)"
+      },
+      {
+        "text": "ina",
+        "explained": false
+      },
+      {
+        "text": "humptadump",
+        "explained": true,
+        "language": "English",
+        "meaning": "Humpty Dumpty (nursery rhyme)"
+      },
+      {
+        "text": "waultopoof",
+        "explained": true,
+        "language": "English",
+        "meaning": "waterproof (Waterloo)"
+      },
+      {
+        "text": "oo",
+        "explained": false
+      },
+      {
+        "text": "looderamaun",
+        "explained": true,
+        "language": "English",
+        "meaning": "lazy idler (Anglo-Irish: loodheramaun)"
+      },
+      {
+        "text": "sturnup",
+        "explained": true,
+        "language": "English",
+        "meaning": "prostitute (obsolete slang: turn-up)"
+      }
+    ]
+  },
+  {
+    "number": 8,
+    "page": 332,
+    "word": "Pappappapparrassannuaragheallachnatullaghmonganmacmacmacwhackfalltherdebblenonthedubblandaddydoodled",
+    "segments": [
+      {
+        "text": "Pappappapp",
+        "explained": true,
+        "language": "English",
+        "meaning": "father (pappa)"
+      },
+      {
+        "text": "arrassannuaragheallachnatullaghmongan",
+        "explained": true,
+        "language": "Irish",
+        "meaning": "Piers O'Reilly of Tullymongan (Piaras an Ua Raghailleach na Tulaige Mongain)"
+      },
+      {
+        "text": "macmacmac",
+        "explained": true,
+        "language": "Irish",
+        "meaning": "son (mac)"
+      },
+      {
+        "text": "whack",
+        "explained": true,
+        "language": "English",
+        "meaning": "song: Whack fol the Diddle"
+      },
+      {
+        "text": "fallther",
+        "explained": true,
+        "language": "English",
+        "meaning": "fall there; father"
+      },
+      {
+        "text": "debble",
+        "explained": false
+      },
+      {
+        "text": "nonthe",
+        "explained": false
+      },
+      {
+        "text": "dubbland",
+        "explained": true,
+        "language": "English",
+        "meaning": "Dublin"
+      },
+      {
+        "text": "addy",
+        "explained": true,
+        "language": "English",
+        "meaning": "father (childish: daddy)"
+      },
+      {
+        "text": "doodled",
+        "explained": true,
+        "language": "English",
+        "meaning": "song: Yankee Doodle"
+      }
+    ]
+  },
+  {
+    "number": 9,
+    "page": 414,
+    "word": "husstenhasstencaffincoffintussemtossemdamandamnacosaghcusaghhobixhatouxpeswchbechoscashlcarcarcaract",
+    "segments": [
+      {
+        "text": "hussten",
+        "explained": true,
+        "language": "German",
+        "meaning": "cough (Husten)"
+      },
+      {
+        "text": "hassten",
+        "explained": false
+      },
+      {
+        "text": "caffincoffin",
+        "explained": true,
+        "language": "English",
+        "meaning": "coughing (coffin)"
+      },
+      {
+        "text": "tussem",
+        "explained": true,
+        "language": "Latin",
+        "meaning": "cough (tussem)"
+      },
+      {
+        "text": "tossem",
+        "explained": true,
+        "language": "Italian",
+        "meaning": "cough (tosse)"
+      },
+      {
+        "text": "damandamna",
+        "explained": false
+      },
+      {
+        "text": "cosaghcusagh",
+        "explained": true,
+        "language": "Irish",
+        "meaning": "of the cough (na casachta)"
+      },
+      {
+        "text": "hobix",
+        "explained": true,
+        "language": "Modern Greek",
+        "meaning": "cough (bex, pronounced 'bix')"
+      },
+      {
+        "text": "hatoux",
+        "explained": true,
+        "language": "French",
+        "meaning": "cough (toux)"
+      },
+      {
+        "text": "peswch",
+        "explained": true,
+        "language": "Welsh",
+        "meaning": "cough (peswch)"
+      },
+      {
+        "text": "bechos",
+        "explained": true,
+        "language": "Modern Greek",
+        "meaning": "of a cough (bechos)"
+      },
+      {
+        "text": "cashl",
+        "explained": true,
+        "language": "Russian",
+        "meaning": "cough (kashel')"
+      },
+      {
+        "text": "carcarcaract",
+        "explained": false
+      }
+    ]
+  },
+  {
+    "number": 10,
+    "page": 424,
+    "word": "Ullhodturdenweirmudgaardgringnirurdrmolnirfenrirlukkilokkibaugimandodrrerinsurtkrinmgernrackinarockar",
+    "segments": [
+      {
+        "text": "Ull",
+        "explained": true,
+        "language": "Norse mythology",
+        "meaning": "Ull, Norse god and stepson of Thor"
+      },
+      {
+        "text": "hod",
+        "explained": true,
+        "language": "Norse mythology",
+        "meaning": "Hod, blind Norse god who killed Balder"
+      },
+      {
+        "text": "turdenweir",
+        "explained": true,
+        "language": "Norwegian",
+        "meaning": "thunderstorm (tordenvaer)"
+      },
+      {
+        "text": "mudgaard",
+        "explained": true,
+        "language": "Norse mythology",
+        "meaning": "Midgard, the Earth"
+      },
+      {
+        "text": "gringnir",
+        "explained": true,
+        "language": "Norse mythology",
+        "meaning": "Gungnir, Odin's spear"
+      },
+      {
+        "text": "urdr",
+        "explained": true,
+        "language": "Old Norse",
+        "meaning": "fate; one of the Norns (urdr)"
+      },
+      {
+        "text": "molnir",
+        "explained": true,
+        "language": "Norse mythology",
+        "meaning": "Mjolnir, Thor's hammer"
+      },
+      {
+        "text": "fenrir",
+        "explained": true,
+        "language": "Norse mythology",
+        "meaning": "Fenrir, giant wolf child of Loki"
+      },
+      {
+        "text": "lukki",
+        "explained": true,
+        "language": "English",
+        "meaning": "lucky"
+      },
+      {
+        "text": "lokki",
+        "explained": true,
+        "language": "Norse mythology",
+        "meaning": "Loki, god and mischief-maker"
+      },
+      {
+        "text": "baugi",
+        "explained": true,
+        "language": "Norse mythology",
+        "meaning": "Baugi, giant of the Mead of Poetry myth"
+      },
+      {
+        "text": "man",
+        "explained": false
+      },
+      {
+        "text": "dodrrerin",
+        "explained": true,
+        "language": "Norse mythology",
+        "meaning": "Odrerir, vessel of the Mead of Poetry"
+      },
+      {
+        "text": "surt",
+        "explained": true,
+        "language": "Norse mythology",
+        "meaning": "Surt, fire giant who burns the world at Ragnarok"
+      },
+      {
+        "text": "krin",
+        "explained": true,
+        "language": "Norse mythology",
+        "meaning": "Hrimnir, frost giant"
+      },
+      {
+        "text": "mgern",
+        "explained": true,
+        "language": "Norse mythology",
+        "meaning": "Garm, monstrous hound of Hel"
+      },
+      {
+        "text": "rackinarockar",
+        "explained": true,
+        "language": "Norse mythology",
+        "meaning": "Ragnarok, the doom of the gods"
+      }
+    ]
+  }
+]
