@@ -62,11 +62,10 @@ def main():
     print("Match each fragment of Joyce's thunderwords to its language!\n")
 
     for tw in data:
-        print(f"  [{tw['number']:2d}] page {tw['page']:3d}  {tw['word'][:24]}...")
+        print(f"  [{tw['number']:2d}] page {tw['page']:3d}  {tw['word']}")
     thunderword = data[ask_number("\nChoose a thunderword (1-10): ", 1, len(data)) - 1]
 
-    print("\nDifficulty: [1] Easy (2 options)  [2] Medium (4)  [3] Hard (6)")
-    option_count = 2 * ask_number("Choose a difficulty (1-3): ", 1, 3)
+    option_count = 4
 
     # Only segments with a documented language source are quizzed.
     questions = [s for s in thunderword["segments"] if s["explained"]]

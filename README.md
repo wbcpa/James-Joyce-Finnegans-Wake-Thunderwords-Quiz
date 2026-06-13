@@ -15,9 +15,8 @@ thunder, clapping, coughing, shutting doors, and Norse gods.
 
 This project is a command-line quiz: the player picks one of the ten
 thunderwords, sees it split into its segments, and must match each
-documented segment to its language of origin in a multiple-choice quiz.
-Three difficulty levels control how many answer options are shown:
-Easy (2), Medium (4), or Hard (6).
+documented segment to its language of origin in a multiple-choice quiz
+with four options per question.
 
 ## How to Run
 
@@ -39,13 +38,12 @@ pytest test_project.py            # run the tests (7 tests)
   value and a rating sentence; safely handles `total == 0`.
 - **`generate_options(correct_language, all_languages, count)`** – Builds a
   shuffled list of `count` answer options that always includes the correct
-  language; `count` is set by the chosen difficulty level.
+  language; the quiz uses four options per question.
 - **`ask_number(prompt, low, high)`** – Re-prompts until the user enters a
-  valid number in the given range; used for both menus to avoid duplicated
-  input-validation loops.
+  valid number in the given range; used for the thunderword selection menu.
 
 `main` ties these together: load the data, let the player pick a
-thunderword and a difficulty, ask the questions, print the final score.
+thunderword, ask the questions, print the final score.
 
 ## The Data
 
@@ -73,8 +71,8 @@ that every segmentation reproduces Joyce's original words exactly.
   the fweet annotations are shown but never asked, so every quiz answer is
   verifiable.
 - **Multiple choice instead of free text.** Players cannot be expected to
-  spell "Kiswahili" or "Lettish"; selectable difficulty (2, 4, or 6
-  options) keeps the game fast, fair, and replayable.
+  spell "Kiswahili" or "Lettish"; four answer options per question keep
+  the game fast, fair, and replayable.
 - **Data and code are separated.** All literary content lives in one JSON
   file; the Python code would work unchanged with any other word-segment
   dataset.
