@@ -1,0 +1,277 @@
+[
+  {
+    "number": 1,
+    "page": 3,
+    "word": "bababadalgharaghtakamminarronnkonnbronntonnerronntuonnthunntrovarrhounawnskawntoohoohoordenenthurnuk",
+    "segments": [
+      {
+        "text": "bababadal",
+        "explained": false
+      },
+      {
+        "text": "gharaght",
+        "explained": true,
+        "language": "Hindustani",
+        "meaning": "thunder (gargarahat)"
+      },
+      {
+        "text": "akamm",
+        "explained": true,
+        "language": "Italian",
+        "meaning": "(they) walked (camminarono)"
+      },
+      {
+        "text": "inarr",
+        "explained": true,
+        "language": "Japanese",
+        "meaning": "thunder (kaminari)"
+      },
+      {
+        "text": "onnkonn",
+        "explained": true,
+        "language": "Finnish",
+        "meaning": "thunder (ukkonen)"
+      },
+      {
+        "text": "bronn",
+        "explained": true,
+        "language": "Greek",
+        "meaning": "thunder (bronte)"
+      },
+      {
+        "text": "tonnerr",
+        "explained": true,
+        "language": "French",
+        "meaning": "thunder (tonnerre)"
+      },
+      {
+        "text": "onn",
+        "explained": false
+      },
+      {
+        "text": "tuonn",
+        "explained": true,
+        "language": "Italian",
+        "meaning": "thunder (tuono)"
+      },
+      {
+        "text": "thunn",
+        "explained": true,
+        "language": "Scottish",
+        "meaning": "thunder (thunner)"
+      },
+      {
+        "text": "trovarr",
+        "explained": true,
+        "language": "Portuguese",
+        "meaning": "thunder (trovao)"
+      },
+      {
+        "text": "houn",
+        "explained": false
+      },
+      {
+        "text": "awnska",
+        "explained": true,
+        "language": "Swedish",
+        "meaning": "thunder (aska)"
+      },
+      {
+        "text": "wntoohoo",
+        "explained": false
+      },
+      {
+        "text": "hoorden",
+        "explained": true,
+        "language": "Danish",
+        "meaning": "thunder (torden)"
+      },
+      {
+        "text": "enthurn",
+        "explained": true,
+        "language": "Irish",
+        "meaning": "thunder (tornach)"
+      },
+      {
+        "text": "uk",
+        "explained": false
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "page": 23,
+    "word": "Perkodhuskurunbarggruauyagokgorlayorgromgremmitghundhurthrumathunaradidillifaititillibumullunukkunun",
+    "segments": [
+      {
+        "text": "Perkod",
+        "explained": true,
+        "language": "Lettish",
+        "meaning": "thunder (perkons)"
+      },
+      {
+        "text": "hus",
+        "explained": false
+      },
+      {
+        "text": "kurun",
+        "explained": true,
+        "language": "Breton",
+        "meaning": "thunder (kurun)"
+      },
+      {
+        "text": "barg",
+        "explained": true,
+        "language": "Persian",
+        "meaning": "thunder (barg)"
+      },
+      {
+        "text": "gruauy",
+        "explained": true,
+        "language": "Lithuanian",
+        "meaning": "it thunders (griauja)"
+      },
+      {
+        "text": "agokgorlay",
+        "explained": true,
+        "language": "Turkish",
+        "meaning": "the sky is thundering (gok gurluyor)"
+      },
+      {
+        "text": "or",
+        "explained": false
+      },
+      {
+        "text": "gromgremmit",
+        "explained": true,
+        "language": "Russian",
+        "meaning": "thunder thunders (grom gremit)"
+      },
+      {
+        "text": "ghundhur",
+        "explained": true,
+        "language": "Malay",
+        "meaning": "thunder (guntur)"
+      },
+      {
+        "text": "thruma",
+        "explained": true,
+        "language": "Icelandic",
+        "meaning": "thunder (thruma)"
+      },
+      {
+        "text": "thuna",
+        "explained": true,
+        "language": "Romanian",
+        "meaning": "to thunder (tuna)"
+      },
+      {
+        "text": "radi",
+        "explained": true,
+        "language": "Kiswahili",
+        "meaning": "thunder (radi)"
+      },
+      {
+        "text": "dilli",
+        "explained": true,
+        "language": "Lithuanian",
+        "meaning": "thunder, Samogitian dialect (dundulis)"
+      },
+      {
+        "text": "faititilli",
+        "explained": true,
+        "language": "Samoan",
+        "meaning": "thunder (faititili)"
+      },
+      {
+        "text": "bumull",
+        "explained": true,
+        "language": "Albanian",
+        "meaning": "to thunder (bumulloj)"
+      },
+      {
+        "text": "unukkunun",
+        "explained": true,
+        "language": "Finnish",
+        "meaning": "thunder (ukkonen)"
+      }
+    ]
+  },
+  {
+    "number": 3,
+    "page": 44,
+    "word": "klikkaklakkaklaskaklopatzklatschabattacreppycrottygraddaghsemmihsammihnouithappluddyappladdypkonpkot",
+    "segments": [
+      {
+        "text": "klikka",
+        "explained": false
+      },
+      {
+        "text": "klakka",
+        "explained": true,
+        "language": "French",
+        "meaning": "clap (claque)"
+      },
+      {
+        "text": "klaska",
+        "explained": false
+      },
+      {
+        "text": "klopatz",
+        "explained": true,
+        "language": "Russian",
+        "meaning": "to clap (khlopat)"
+      },
+      {
+        "text": "klatsch",
+        "explained": true,
+        "language": "German",
+        "meaning": "clap, applaud (Klatsch)"
+      },
+      {
+        "text": "abatta",
+        "explained": true,
+        "language": "Italian",
+        "meaning": "to clap (battere)"
+      },
+      {
+        "text": "creppy",
+        "explained": false
+      },
+      {
+        "text": "crotty",
+        "explained": true,
+        "language": "Greek",
+        "meaning": "loud explosive noises (krotoi)"
+      },
+      {
+        "text": "graddagh",
+        "explained": true,
+        "language": "Irish",
+        "meaning": "clapping (greadadh)"
+      },
+      {
+        "text": "semmih",
+        "explained": false
+      },
+      {
+        "text": "sammih",
+        "explained": false
+      },
+      {
+        "text": "nouith",
+        "explained": false
+      },
+      {
+        "text": "appluddyappladdy",
+        "explained": true,
+        "language": "English",
+        "meaning": "applaud"
+      },
+      {
+        "text": "pkonpkot",
+        "explained": false
+      }
+    ]
+  }
+]
