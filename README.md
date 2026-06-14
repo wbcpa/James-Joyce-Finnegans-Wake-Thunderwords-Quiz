@@ -1,9 +1,9 @@
 # Thunderword Quiz
 
-#### Video Demo: <YOUR VIDEO URL HERE>
-#### Author: <YOUR NAME> (GitHub/edX: <YOUR USERNAME>)
-#### Location: <City, Country>
-#### Date: <DD Month YYYY>
+#### Video Demo: https://youtu.be/FSqG7K5FF2M
+#### Author: Wolfgang Bossle (GitHub/edX: wbcpa)
+#### Location: Germany
+#### Date: 14 June 2026
 
 ## Overview
 
