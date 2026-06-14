@@ -63,7 +63,7 @@ def main():
 
     for tw in data:
         print(f"  [{tw['number']:2d}] page {tw['page']:3d}  {tw['word']}")
-    thunderword = data[ask_number("\nChoose a thunderword (1-10): ", 1, len(data)) - 1]
+    thunderword = data[ask_number(f"\nChoose a thunderword (1-{len(data)}): ", 1, len(data)) - 1]
 
     option_count = 4
 
